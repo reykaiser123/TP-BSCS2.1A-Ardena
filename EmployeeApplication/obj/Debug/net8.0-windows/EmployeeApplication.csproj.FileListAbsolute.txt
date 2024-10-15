@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.exe
+C:\Users\User\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.deps.json
+C:\Users\User\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.runtimeconfig.json
+C:\Users\User\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.dll
+C:\Users\User\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.pdb
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.Form1.resources
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.AssemblyInfo.cs
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.dll
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\refint\EmployeeApplication.dll
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.pdb
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.genruntimeconfig.cache
+C:\Users\User\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\ref\EmployeeApplication.dll
